@@ -1,0 +1,24 @@
+{
+  "name": "parcial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Parcial de Taller de Programacion",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzagerunpaz/parcialI-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gonzagerunpaz/parcialI-lab/issues"
+  },
+  "homepage": "https://github.com/gonzagerunpaz/parcialI-lab#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
